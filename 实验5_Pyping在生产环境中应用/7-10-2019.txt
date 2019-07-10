@@ -1,0 +1,143 @@
+As of7-10-2019 16:25:6
+
+There are totally 48 ports available in the network.
+0 ports are currently up.As of7-10-2019 16:28:16
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:28:16
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:31:4
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:31:4
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:31:4
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:50:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:50:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:50:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:52:57
+
+There are totally 48 ports available in the network.
+16 ports are currently up.
+Port up rate is 33.33%
+**********************************************************************************
+
+As of7-10-2019 16:52:57
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
+As of7-10-2019 16:52:57
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
+As of7-10-2019 16:58:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:58:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:58:21
+
+There are totally 48 ports available in the network.
+0 ports are currently up.
+Port up rate is 0.00%
+**********************************************************************************
+
+As of7-10-2019 16:59:25
+
+There are totally 48 ports available in the network.
+16 ports are currently up.
+Port up rate is 33.33%
+**********************************************************************************
+
+As of7-10-2019 16:59:25
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
+As of7-10-2019 16:59:25
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
+As of7-10-2019 17:1:44
+
+There are totally 48 ports available in the network.
+16 ports are currently up.
+Port up rate is 33.33%
+**********************************************************************************
+
+As of7-10-2019 17:1:44
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
+As of7-10-2019 17:1:44
+
+There are totally 48 ports available in the network.
+32 ports are currently up.
+Port up rate is 66.67%
+**********************************************************************************
+
