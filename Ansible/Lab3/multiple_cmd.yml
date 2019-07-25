@@ -1,0 +1,16 @@
+---
+- name: run multiple commands on remote devices
+  hosts: all
+  gather_facts: false
+  connection: local
+
+  tasks:
+   - name: show ver and show ip int brief
+     ios_command:
+       commands:
+        - show clock
+        - show ip int brief
+
+     register: print_output
+
+   - debug: var=print_output.stdout_lines
