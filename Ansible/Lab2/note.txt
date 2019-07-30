@@ -1,1 +1,0 @@
-ansible-playbook arp.yml -u python -k | grep 'ok:\|8001'
