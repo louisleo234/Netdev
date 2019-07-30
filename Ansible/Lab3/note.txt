@@ -1,1 +1,3 @@
 perform multi command on cisco switch via ansible
+
+ansible-playbook arp.yml -u python -k | grep 'ok:\|8001
