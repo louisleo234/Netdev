@@ -1,0 +1,28 @@
+---
+- name: configure vlan
+  hosts: 192.168.213.201
+  gather_facts: false
+  connection: local
+  
+  tasks:
+   - name: configure vlan
+     ios_vlan:
+       authorize: yes
+       vlan_id: 120
+       name: vlan_120
+       state: present
+
+     register: print_output
+
+   -  debug: var=print_output
+
+   - name: configure name server
+     ios_config:
+       authorize: yes
+       lines:
+         - ip name-server 8.8.8.8
+       save_when: always
+
+     register: print_output
+
+   -  debug: var=print_output

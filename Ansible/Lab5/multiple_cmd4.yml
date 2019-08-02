@@ -1,0 +1,17 @@
+---
+- name: configure vlan
+  hosts: 192.168.213.201
+  gather_facts: false
+  connection: local
+  
+  tasks:
+   - name: configure vlan
+     ios_config:
+       authorize: yes
+       lines: 
+         - vlan 101
+         - name test
+
+     register: print_output
+
+   -  debug: var=print_output

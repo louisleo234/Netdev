@@ -1,0 +1,28 @@
+---
+- name: enable ospf
+  hosts: all
+  gather_facts: false
+  connection: local
+  
+  tasks:
+   - name: show run
+     ios_config:
+       authorize: yes
+       parents: router ospf 2
+       lines: 
+         - network 0.0.0.0 255.255.255.0 area 0
+
+     register: print_output
+
+   -  debug: var=print_output
+
+   - name: configure policer in scavenger class
+     ios_config: 
+       parents: 
+         - policy-map Foo
+         - class Scavenger
+         - police cir 64000
+       lines: 
+         - conform-action transmit
+         - exceed-action drop
+     

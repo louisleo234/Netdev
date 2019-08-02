@@ -1,0 +1,18 @@
+---
+- name: run multiple commands on remote devices
+  hosts: all
+  gather_facts: false
+  connection: local
+
+  tasks:
+   - name: show run
+     ios_command:
+       commands:
+        - show run
+
+     register: print_output
+
+   - debug: var=print_output.stdout_lines
+
+   - name: save output to a file
+     copy: content= '{{ print_output.stdout[0] }}' dest= '/root/ansible_output/ {{ inventory_hostname }}.txt'

@@ -1,0 +1,6 @@
+multiple_cmd3 - use "ios_config" module to configure OSPF on cisco device 
+
+multiple_cmd4 - use "ios_config" module to configure vlan on cisco device
+
+multiple_cmd5 - use "ios_vlan" module and ios_config module to configure vlan and dns on cisco device
+
