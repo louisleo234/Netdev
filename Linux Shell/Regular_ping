@@ -1,0 +1,4 @@
+#!/bin/bash
+source /etc/profile
+ping 10.xx.xx.xx -c 2 | awk '{ print $0"\t" strftime("%Y-%m-%d %H:%M:%S",systime()) } ' >>ping_gdc_ro.log
+ping 10.xx.x.xx -c 2 | awk '{ print $0"\t" strftime("%Y-%m-%d %H:%M:%S",systime()) } ' >>ping_gdc_fp.log
